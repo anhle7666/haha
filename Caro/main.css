@@ -1,0 +1,25 @@
+.main {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 610px;
+    width: 620px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+
+.squared {
+    width: 200px;
+    height: 200px;
+    border: solid;
+}
+
+.x {
+    background-color: aqua;
+}
+
+.o {
+    background-color:red;
+}
